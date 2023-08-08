@@ -66,11 +66,11 @@ def show_program():
                     %sINFORMATION%s
  ------------------------------------------------------
 
-    Author     Hak9
+    Author     Vitual Cyber Labs
     Name       Facebook Information
     Version    Full Version
-    Date       08/04/2019 
-    Jabber     xhak9x@jabber.de
+    Date       08/08/2023 
+    Email      virtualcyberlabs@gmail.com    
 
 * if you find any errors or problems , please contact
   author
